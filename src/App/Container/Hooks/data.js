@@ -58,7 +58,7 @@ export const defaultResumeData = `
 
 ### Projects:
 
-#### 1# Predix APM** (GE Digital)   CurrentProject
+#### **1# Predix APM** (GE Digital)   CurrentProject
 
 Predix APM (Asset Performance Management) is a cloud based SaaS Application for **IoT** devices (IIOT- Industrial IoT). It uses highly scalable and extensible Architecture models (Multi-Tenancy, Micro-Services, Micro-Frontend). It is designed to help, predict and optimize the performance of Industrial assets.  APM-Analysis module heps users to analyse and visualize the timeseries data of Industrial assets sensors. [..more details](https://www.ge.com/digital/applications/asset-performance-management).
 
@@ -74,7 +74,7 @@ Predix APM (Asset Performance Management) is a cloud based SaaS Application for 
 
 
 
-#### 2# Talent Marketplace** (Cisco Systems Inc.)
+#### **2# Talent Marketplace** (Cisco Systems Inc.)
 
 Talent Marketplace - is a MEAN Stack web application (MongoDB, Express, Angular.js, Node.js). It is Node.js based monolithic web application which helps to connect Talents and Business.
 
@@ -84,7 +84,7 @@ Talent Marketplace - is a MEAN Stack web application (MongoDB, Express, Angular.
 - **Back-End:** MEAN Stack (MongoDB, Express, Angular.js, Node.js), REST API, Mongoose, Bluebird (Promises), Passport, Helmet, Request.js
 - **Tools:** Git, NPM, Bower, Jenkins, CI/CD
 
-#### 3# MIDAS  ** (Cisco Systems Inc.)
+#### **3# MIDAS** (Cisco Systems Inc.)
 
 MIDAS is a Java-Spring based web based application for Cisco Capital's Leasing and Financing business, acts as SSOT for Customers and Items for Cisco Capital business.
 

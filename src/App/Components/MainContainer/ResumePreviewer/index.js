@@ -2,7 +2,7 @@ import React, { Suspense, lazy } from "react";
 import styled from "styled-components";
 import Loading from "./Loading";
 import ErrorBoundary from "./ErrorBoundary.js";
-import "github-markdown-css";
+// import "github-markdown-css";
 const Wrapper = styled.div`
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;

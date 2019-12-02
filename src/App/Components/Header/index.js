@@ -5,8 +5,7 @@ import {
   NavbarToggler,
   NavbarBrand,
   Nav,
-  NavItem,
-  NavLink,
+  Badge,
   UncontrolledDropdown,
   DropdownToggle,
   DropdownMenu,
@@ -22,7 +21,7 @@ const Example = props => {
     <div>
       <Navbar color="light" light expand="md">
         <NavbarBrand href="/">
-          Jag Resume Builder <small>(Live Edit)</small>
+          Jag Resume Builder <Badge color="warning">Live Edit</Badge>
         </NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
