@@ -1,3 +1,14 @@
+# `jag`- Resume Builder
+
+Dont write resume, write code (markdown)! We build resume for you!
+
+Created this Resume Builder exculsively **software developers**.
+
+
+Code & Demo : [Sandbox](https://codesandbox.io/s/github/jagadeeshpalaniappan/jag-resume-builder)  [TODO]
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
