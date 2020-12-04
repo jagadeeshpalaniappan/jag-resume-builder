@@ -7,7 +7,7 @@
     "codemirror": "^5.49.2",
     "create-event-target-hook": "1.2.2",
     "github-markdown-css": "^3.0.1",
-    "highlight.js": "^9.15.10",
+    "highlight.js": "^10.4.1",
     "nonaction": "0.0.5",
     "normalize.css": "^8.0.1",
     "react": "^16.11.0",
